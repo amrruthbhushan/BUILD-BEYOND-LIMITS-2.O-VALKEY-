@@ -1,0 +1,17 @@
+# IDE files
+argv.json
+extensions/
+
+# Node dependencies
+node_modules/
+npm-debug.log*
+
+# Database & Cache files
+backend/leads.json
+.env
+backend/.env
+frontend/dist/
+
+# System files
+.DS_Store
+Thumbs.db
